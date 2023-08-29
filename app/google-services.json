@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "995251671716",
+    "firebase_url": "https://services-fdb74-default-rtdb.firebaseio.com",
+    "project_id": "services-fdb74",
+    "storage_bucket": "services-fdb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995251671716:android:a43968a9477ab031ca0c31",
+        "android_client_info": {
+          "package_name": "com.example.connectbluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995251671716-g0l66k1pk0nlached3ul0755r70o4no9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IRgztf3gJZti1zPL0vA61hKZqib_TZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995251671716-g0l66k1pk0nlached3ul0755r70o4no9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995251671716:android:b44be48dfdcd3f71ca0c31",
+        "android_client_info": {
+          "package_name": "com.example.firebasenetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995251671716-g0l66k1pk0nlached3ul0755r70o4no9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IRgztf3gJZti1zPL0vA61hKZqib_TZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995251671716-g0l66k1pk0nlached3ul0755r70o4no9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
