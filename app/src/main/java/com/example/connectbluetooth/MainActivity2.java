@@ -130,7 +130,7 @@ class ParkingLot {
 
     @Override
     public String toString() {
-        return name + " - 사용가능: " + capacity + "         " ;
+        return name + "주차장 "+ "\n"+"장애인전용주차가능대수:  " + capacity  ;
     }
 }
 
